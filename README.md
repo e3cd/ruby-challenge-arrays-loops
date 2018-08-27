@@ -14,9 +14,6 @@
 
 ## Pre-Challenge Review
 
-- The Ruby Docs on Arrays
-- The Ruby Docs on ...
-
 ### Loops
 #### FOR LOOP
 ```Ruby 
